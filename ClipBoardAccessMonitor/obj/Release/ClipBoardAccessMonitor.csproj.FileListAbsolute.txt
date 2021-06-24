@@ -1,0 +1,6 @@
+D:\Code\ClipBoardAccessMonitor\ClipBoardAccessMonitor\bin\Release\ClipBoardAccessMonitor.exe.config
+D:\Code\ClipBoardAccessMonitor\ClipBoardAccessMonitor\bin\Release\ClipBoardAccessMonitor.exe
+D:\Code\ClipBoardAccessMonitor\ClipBoardAccessMonitor\bin\Release\ClipBoardAccessMonitor.pdb
+D:\Code\ClipBoardAccessMonitor\ClipBoardAccessMonitor\obj\Release\ClipBoardAccessMonitor.csproj.CoreCompileInputs.cache
+D:\Code\ClipBoardAccessMonitor\ClipBoardAccessMonitor\obj\Release\ClipBoardAccessMonitor.exe
+D:\Code\ClipBoardAccessMonitor\ClipBoardAccessMonitor\obj\Release\ClipBoardAccessMonitor.pdb
